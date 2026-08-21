@@ -1,0 +1,16 @@
+Linear Regression (Predicting BMI using Glucose):
+R² Score: 0.0226
+
+Linear Regression (Predicting BMI using Glucose):
+R² Score: 0.0048
+
+Logistic Regression (Predicting Outcome using ['Glucose', 'BloodPressure', 'BMI', 'Age']):
+Accuracy Score: 0.2500
+
+Logistic Regression (Predicting Outcome using ['Glucose', 'BloodPressure', 'BMI', 'Age']):
+Accuracy Score: 0.4000
+
+RESULT:
+Linear Regression reveals the relationship between Glucose Level and BMI,
+while Logistic Regression predicts Diabetes Presence with varying accuracy.
+Differences in R² and accuracy scores indicate dataset variations.

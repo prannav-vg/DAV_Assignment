@@ -1,0 +1,5 @@
+(See Normal_Curve_Glucose_BMI.png for the plotted normal curves.)
+
+RESULT:
+The normal curves show the distribution of Glucose and BMI, indicating data
+spread and skewness.

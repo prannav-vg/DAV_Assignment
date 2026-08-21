@@ -1,0 +1,33 @@
+                                               App        Category  Rating
+0  Photo Editor & Candy Camera & Grid & ScrapBook  ART_AND_DESIGN     4.1
+1                               Coloring book moana  ART_AND_DESIGN     3.9
+2  U Launcher Lite - FREE Live Cool Themes, Hide...  ART_AND_DESIGN     4.7
+3                              Sketch - Draw & Paint  ART_AND_DESIGN     4.5
+4              Pixel Draw - Number Art Coloring Book  ART_AND_DESIGN     4.3
+ ...
+     Product     Price  Quantity
+0     Laptop      1000         5
+1  Smartphone      800         8
+2     Tablet       500        10
+3 Headphones       100        15
+ ...
+   Country   Region
+0  Algeria   AFRICA
+1   Angola   AFRICA
+2    Benin   AFRICA
+3 Botswana   AFRICA
+4  Burkina   AFRICA
+
+C:\Users\my\AppData\Local\Temp\ipykernel_11204\2295458141.py:9: FutureWarning:
+DataFrame.fillna with 'method' is deprecated and will raise in a future version.
+Use obj.ffill() or obj.bfill() instead.
+  text_df.fillna(method='ffill', inplace=True)
+C:\Users\my\AppData\Local\Temp\ipykernel_11204\2295458141.py:10: FutureWarning:
+DataFrame.fillna with 'method' is deprecated and will raise in a future version.
+Use obj.ffill() or obj.bfill() instead.
+  excel_df.fillna(method='bfill', inplace=True)
+
+RESULT:
+The experiment successfully demonstrated reading data from text files, Excel
+spreadsheets, and web-based sources using Pandas. The output verified the
+correctness of each operation performed.
